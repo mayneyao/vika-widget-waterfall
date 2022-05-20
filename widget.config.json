@@ -1,0 +1,17 @@
+{
+  "packageId": "wpk1cWKW8gmKZ",
+  "spaceId": "spcYGJHMuVaKC",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "waterfall",
+    "en-US": "waterfall"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "waterfall 的描述",
+    "en-US": "waterfall description"
+  },
+  "sandbox": true
+}
